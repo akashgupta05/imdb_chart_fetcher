@@ -1,4 +1,4 @@
-module github.com/akashgupta05/imdb-chart-fetcher
+module github.com/akashgupta05/imdb_chart_fetcher
 
 go 1.15
 
