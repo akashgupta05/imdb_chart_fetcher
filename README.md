@@ -1,4 +1,4 @@
-# imdb-chart-fetcher
+# imdb_chart_fetcher
 CLI script to fetch imdb chart
 
 Steps to run script
